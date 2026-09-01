@@ -1,0 +1,5 @@
+TIEMPO 75
+AGREGAR_ING Harina 50
+MODIFICAR_PASO 2 Agregar sal y pimienta al gusto
+AGREGAR_PASO 3 Hornear por 30 minutos
+ELIMINAR_PASO 1
